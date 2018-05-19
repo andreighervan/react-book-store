@@ -30,7 +30,7 @@
     "cors": "^2.8.4",
     "ejs": "^2.5.7",
     "express": "^4.13.4",
-    "jquery": "^2.2.3",
+    "jquery": "^3.0.0",
     "pg": "^7.4.1",
     "react": "^15.0.2",
     "react-addons-pure-render-mixin": "^15.0.2",
